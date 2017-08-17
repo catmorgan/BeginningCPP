@@ -1,0 +1,4 @@
+1. In the file "menu_chooser_2.cpp"
+2. The while statement will never execute because x is set to 0,
+which evaluates as false. 
+3. In the file "guess_my_number_2.cpp"

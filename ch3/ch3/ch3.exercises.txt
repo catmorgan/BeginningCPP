@@ -1,0 +1,11 @@
+Questions
+1. There could be a Sword class, that could have damage and durability as data members.
+Some functions could include dealing damage with certain modifiers, and subtracting
+durability depending on what the sword is hitting. 
+2. Arrays can be iterated over whereas a group of individual variables cannot.
+Also, if you have a large program, it's easier to find relatable data if it's together
+compared to scattered.
+3. You cannot dynamically add elements easily to an array, so you have to know 
+your data set size in the beginning. 
+4. Operator overloading can make your code look cleaner and functions can be reused 
+across the same objects, whereas 

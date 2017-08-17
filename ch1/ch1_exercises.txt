@@ -1,0 +1,9 @@
+1. 6 legal variable names, 3 good and 3 bad.
+	Good: variableOne, variable_one, VariableOne
+	Bad: tHiSiSnOtCoNsiStEnT, v, myReallyLongVariableThatIsHardToRead
+2. What's displayed by the code snippets?
+	a. cout << 7/3 << endl; --> 2
+	b. cout << 7.0 / 3 << endl; --> 2.3333;
+	c. cout << 7.0 / 3.0 << endl; --> 2.3333;
+3. Write a program that gets three game scores from the user 
+	and displays the average (in folder, named ch1_ex3)
